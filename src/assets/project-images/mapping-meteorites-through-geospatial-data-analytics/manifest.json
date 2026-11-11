@@ -1,0 +1,38 @@
+{
+  "notebook": "NTU_N1420858_SOFT40161.ipynb",
+  "sha256": "89db5f71e231c4c4edd37243a3c86980b12ef6cb5a6fdc47f5ab31f283ba49e7",
+  "figures": [
+    {
+      "file": "witnessed-falls.json",
+      "cell": 19,
+      "output": 0,
+      "traces": 1,
+      "frames": 0,
+      "bytes": 27081
+    },
+    {
+      "file": "discovery-leaderboard.json",
+      "cell": 19,
+      "output": 1,
+      "traces": 11,
+      "frames": 210,
+      "bytes": 2233000
+    },
+    {
+      "file": "historical-trends.json",
+      "cell": 19,
+      "output": 2,
+      "traces": 5,
+      "frames": 0,
+      "bytes": 17370
+    },
+    {
+      "file": "global-distribution.json",
+      "cell": 19,
+      "output": 3,
+      "traces": 8,
+      "frames": 0,
+      "bytes": 984736
+    }
+  ]
+}
